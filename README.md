@@ -1,2 +1,2 @@
 # Hello-World2
-This repository is for practising the GitHub Flow.
+My name is Jake Sexton. I've enjoyed studying HTML and CSS over the last few years. I'm excited to get to learn Javascript and more. 
